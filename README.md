@@ -12,6 +12,13 @@ Python client for **[LinkedIn Company Scraper: Size & Industry, No Cookies](http
 pip install apify-client
 python3 linkedin_company_scraper.py --token YOUR_APIFY_TOKEN --company-urls "https://www.linkedin.com/company/openai"
 ```
+### Node.js
+
+```bash
+npm install apify-client
+node linkedin_company_scraper.mjs --token YOUR_APIFY_TOKEN --token YOUR_APIFY_TOKEN --company-urls "https://www.linkedin.com/company/openai"
+```
+
 
 Get a free API token: [console.apify.com/sign-up](https://console.apify.com/sign-up) — then find it under **Settings → API & Integrations**.
 
