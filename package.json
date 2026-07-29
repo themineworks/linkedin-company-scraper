@@ -1,0 +1,14 @@
+{
+  "name": "linkedin-company-scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Node.js client for the themineworks/linkedin-company-details Apify actor",
+  "main": "linkedin_company_scraper.mjs",
+  "scripts": {
+    "start": "node linkedin_company_scraper.mjs"
+  },
+  "dependencies": {
+    "apify-client": "^1.9.2"
+  },
+  "license": "MIT"
+}
