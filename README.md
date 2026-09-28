@@ -5,7 +5,7 @@ Scrape LinkedIn company pages without login: company name, tagline, industry, em
 **Run it on Apify:** [apify.com/themineworks/linkedin-company-details](https://apify.com/themineworks/linkedin-company-details)
 **Docs, FAQ and pricing:** [themineworks.com/actors/linkedin-company-details](https://themineworks.com/actors/linkedin-company-details/)
 
-**Price:** $3.50 per 1,000 companies on Apify's free plan, down to $2.10 on higher plans, plus a $0.005 start fee per run. Failed and empty results are never charged.
+**Price:** From $2.10 per 1,000 companies on Apify's higher plans ($3.50 on the free plan), plus a $0.005 start fee per run. Failed and empty results are never charged.
 
 ## What it returns
 
@@ -145,7 +145,7 @@ The row comes back marked rather than silently dropped, so a list can be reconci
 
 ### How much does the LinkedIn Company Scraper cost?
 
-$3.50 per 1,000 companies on Apify's free plan, down to $2.10 on higher plans, plus a $0.005 start fee per run. Failed and empty results are never charged. You can cap what a single run may spend with the maximum cost setting on Apify.
+From $2.10 per 1,000 companies on Apify's higher plans ($3.50 on the free plan), plus a $0.005 start fee per run. Failed and empty results are never charged. You can cap what a single run may spend with the maximum cost setting on Apify.
 
 ### Can I export the results to CSV or Excel?
 
